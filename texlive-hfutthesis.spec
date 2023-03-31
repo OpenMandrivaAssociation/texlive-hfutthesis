@@ -1,6 +1,6 @@
 Name:		texlive-hfutthesis
 Version:	64025
-Release:	1
+Release:	2
 Summary:	LaTeX Thesis Template for Hefei University of Technology
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hfutthesis
