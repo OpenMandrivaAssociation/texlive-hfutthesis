@@ -3,7 +3,7 @@ Version:	64025
 Release:	2
 Summary:	LaTeX Thesis Template for Hefei University of Technology
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hfutthesis
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/hfutthesis
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hfutthesis.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hfutthesis.doc.r%{version}.tar.xz
